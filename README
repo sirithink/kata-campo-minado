@@ -1,0 +1,8 @@
+
+CODE KATA - CAMPO MINADO
+ http://codingdojo.org/cgi-bin/wiki.pl?KataMinesweeper
+ 
+-----------------------
+A fazer:
+- refatorar: array de pares linha,coluna para representar adjacencias
+- entrada e saída segundo a descrição original do problema
